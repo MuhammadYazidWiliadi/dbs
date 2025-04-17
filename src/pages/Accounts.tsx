@@ -10,7 +10,7 @@ const AccountsPage = () => {
         <div className="flex justify-between items-center">
           <div>
             <h1 className="text-3xl font-bold mb-1">Akun Saya</h1>
-            <p className="text-muted-foreground">Kelola semua akun bank Anda</p>
+            <p className="text-muted-foreground">Kelola semua akun DBS Anda</p>
           </div>
           <Button>
             <Plus className="h-4 w-4 mr-2" />
