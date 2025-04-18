@@ -30,7 +30,7 @@ const Dashboard = () => {
           />
           <AccountSummaryCard
             title="Pengeluaran Bulan Ini"
-            amount="Rp 7.250.000"
+            amount="Rp 7.350.000"
             type="expense"
             trend={{ percentage: "3%", isUp: false }}
           />
